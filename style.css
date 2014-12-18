@@ -1,0 +1,57 @@
+	@font-face {
+		font-family: 'mf_yourself';
+		src: url('fonts/Cocogoose.otf');
+		font-weight: normal;
+		font-style: normal;
+	}
+	
+	body {
+		background-color: black;
+		font-family: mf_yourself;
+		color:#FFFF00;
+	}
+
+	p {
+		text-align: justify;
+		font-size:12px;
+	}
+	
+	ul li {
+		text-align: justify;
+		font-size:12px;	
+	}
+	img {
+		vertical-align:middle;
+	}
+	
+	footer {
+		padding-top: 20px;
+	}
+	
+	#full{
+		text-align:center;
+		width:100%;
+	}
+	
+	#table_class, #game_start{
+		font-size:30px;	
+	}
+
+	#about_top_title {
+		text-align:center;
+		font-size:25px;
+	}
+	
+	tr.border td {
+		border:2pt solid #FFFF00;
+	}
+	
+	.about_title {
+		font-size:16px;
+	}	
+	
+	.about_table {
+		width:100%;
+		text-align:center;
+		font-size:12px;
+	}
