@@ -2,11 +2,9 @@ Pacman
 ======
 寫得很爛的Pacman功課 (汗)。
 
-Programming Language: Javascript
-
-(Best viewed with Google Chrome)
-
-Link: http://mollykannn.github.io/pacman-javascript/
+- Programming Language: Javascript
+- Best viewed with Google Chrome
+- Link: http://mollykannn.github.io/pacman-javascript/
 
 ## Objective
 
